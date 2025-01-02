@@ -9,9 +9,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Giri-Harsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Giri-Harsh&theme=tokyonight&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Harsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🎯 Streak 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Giri-Harsh&theme=tokyonight&hide_border=false)<br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Giri-Harsh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -21,8 +23,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Giri-Harsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🎯Current Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=Giri-Harsh&icon=2&color=8)](https://visitcount.itsvg.in)
 
