@@ -50,25 +50,15 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giri-Harsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Harsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giri-Harsh&theme=tokyonight&hide_border=false)
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
 
-<div align="center">
 
-  ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Giri-Harsh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## ✍️ Dev Quote of the Day
 
