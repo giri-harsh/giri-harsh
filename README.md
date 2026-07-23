@@ -13,7 +13,7 @@
 <td colspan="2" align="center" bgcolor="#0d1117">
 <br>
 <h1>⚡ HARSH GIRI ⚡</h1>
-<h3>Software Engineering Student | Data Science Focus | Open Source Contributor</h3>
+<h3>LLM Engineer | Agentic AI · RAG · MCP Servers | Shipped voice agents, RAG chatbots & multi-agent systems</h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&width=600&center=true&lines=Building+AI+agents+and+RAG+systems...;Competing+in+hackathons+%F0%9F%8F%86;Contributing+to+Apache+OpenOffice;Debugging+with+printf+and+not+ashamed" alt="Typing Text" />
 <br><br>
 <a href="https://linkedin.com/in/harsh-giri-92b5032a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://discord.gg/pseudo_harsh" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://github.com/Giri-Harsh" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://harshgiri.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge" height="28"/></a>&nbsp;&nbsp;<a href="https://instagram.com/Pseudo_harsh" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" height="28"/></a>
