@@ -62,7 +62,7 @@ I'm a B.Tech Software Engineering student with a Data Science focus. I build RAG
   </tr>
 </table>
 
-<h4>AI / ML / GenAI</h4>
+<h4>AI / ML / GenAI / DL</h4>
 <table border="0" cellpadding="8" cellspacing="8">
   <tr>
     <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></td>
